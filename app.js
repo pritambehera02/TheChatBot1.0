@@ -4,8 +4,6 @@ function talk() {
         "hii" : "Heyyy, What's Up ???",
         "preeti": "Oyeee Preetu, Thanks for being my Best Friend. I Always will be there for you",
         "Preeti": "Oyeee Preetu, Thanks for being my Best Friend. I Always will be there for you",
-        "Akankshya": "Sala mankedi harami kaudikara",
-        "akankshya": "Sala mankedi harami kaudikara",
         "how are you": "Good :)",
         "what can you do for me": "Everything :) Just say to me >>Thank Me Later",
         "Your followers":

@@ -6,6 +6,11 @@ function talk() {
         "kaise ho": "Haan main badhiyaa, Tum Bataoo",
         "hello": "Heyyy, What's Up ???",
         "how are you": "Good :)",
+        "who is pritam": "Owner of The Chat Bot",
+        "who is soubhagya": "Owner of The Chat Bot",
+        "who is rakesh": "Owner of The Chat Bot",
+        "who is mukti": "Owner of The Chat Bot",
+        "who is pradeep": "Owner of The Chat Bot",
         "what can you do for me": "Everything :) Just say to me >>Thank Me Later",
         "Your followers":
             "I have my family of 200000 members, i don't have follower ,have supportive Famiy ",

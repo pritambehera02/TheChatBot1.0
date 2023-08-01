@@ -2,7 +2,7 @@ function talk() {
     var know = {
         "who are you": "Hello, Chatbot is here for you ",
         "hii" : "Heyyy, What's Up ???",
-        "Hii,Hello,hello" : "Heyyy, What's Up ???",
+        "Hii" : "Heyyy, What's Up ???",
         "kaise ho": "Haan main badhiyaa, Tum Bataoo",
         "hello": "Heyyy, What's Up ???",
         "how are you": "Good :)",
